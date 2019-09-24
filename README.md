@@ -1,4 +1,7 @@
 # robjm: An R Package for Robust Longitudinal and Joint Models
+[Dynamic predictions of kidney graft survival in the presence of longitudinal outliers](https://arxiv.org/abs/1905.00816)
+
+[Robust joint models](https://ozgurasar.netlify.com/post/robust_joint/)
 
 Install and load using the following lines:
 
